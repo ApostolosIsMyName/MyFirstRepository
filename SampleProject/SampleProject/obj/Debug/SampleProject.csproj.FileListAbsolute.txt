@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\Repositories\MyFirstRepository\SampleProject\SampleProject\bin\Debug\SampleProject.exe.config
+C:\Users\Laptop\Desktop\Repositories\MyFirstRepository\SampleProject\SampleProject\bin\Debug\SampleProject.exe
+C:\Users\Laptop\Desktop\Repositories\MyFirstRepository\SampleProject\SampleProject\bin\Debug\SampleProject.pdb
+C:\Users\Laptop\Desktop\Repositories\MyFirstRepository\SampleProject\SampleProject\obj\Debug\SampleProject.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\Repositories\MyFirstRepository\SampleProject\SampleProject\obj\Debug\SampleProject.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Repositories\MyFirstRepository\SampleProject\SampleProject\obj\Debug\SampleProject.exe
+C:\Users\Laptop\Desktop\Repositories\MyFirstRepository\SampleProject\SampleProject\obj\Debug\SampleProject.pdb
